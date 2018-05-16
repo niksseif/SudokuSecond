@@ -30,6 +30,7 @@ function finder(sudoku,idx){
   }
 }
 // checking the possibility of numbers
+// i have not figure out the 3x3 box yet!!!
 function possibilities(sudoku){
   let possible= [1,2,3,4,5,6,7,8, 9]
   let posib;
