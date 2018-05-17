@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "sudoku-solver-js": "^0.1.4"
+    "sudoku-solver-js": "^0.1.4",
+    "underscore": "^1.9.0"
   }
 }
