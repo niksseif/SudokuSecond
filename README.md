@@ -1,5 +1,6 @@
 # SudokuGame
-made a new Sudoku project
+made a new Sudoku project:
+## http://sleepy-ink.surge.sh/
 I have been working on Genetic algorithm to use it for my sudoku game. 
 It fascinates me how the nature works.Beautiful algorithm of evolution.
 This algorithm works based on mutation and selection.
